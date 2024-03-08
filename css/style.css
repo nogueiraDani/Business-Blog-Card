@@ -7,7 +7,7 @@ body {
 }
 
 #card {
-    margin-top: 132px;
+    margin-top: 130px;
     margin-bottom: auto;
     background-color: #FFFFFF !important;
     border-radius: 15px;
@@ -28,12 +28,12 @@ body {
 #image_business,
 #image_white,
 #card {
-    width: 500px;
+    width: 400px;
 }
 
 #image_white {
     position: absolute;
-    top: 398px;
+    top: 340px;
 }
 
 h1 {
